@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.env
+
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Dependency management
+Pipfile.lock
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Environment-specific files
+*.env
+
+# Miscellaneous
+*.log
+.DS_Store
