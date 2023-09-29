@@ -1,6 +1,3 @@
-Certainly! Here's a sample README.md file for your Python project that provides an overview of the project, how to use it, and any other relevant information:
-
-```markdown
 # Fast Map CLI
 
 The Fast Map CLI is a command-line tool for fetching travel distances between two locations using the Google Maps API.
@@ -22,13 +19,13 @@ Before using the Fast Map CLI, make sure you have the following:
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/fast-map-cli.git
+   git clone https://github.com/thribhu/fast-map.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd fast-map-cli
+   cd fast-map
    ```
 
 3. Install the required dependencies:
@@ -63,5 +60,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - The Fast Map CLI uses the Google Maps API for distance calculations.
 - Created by Thribhuvan Kumar DSVB
-
-```
